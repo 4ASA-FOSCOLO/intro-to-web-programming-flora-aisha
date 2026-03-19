@@ -5,3 +5,8 @@
 [LINK](https://4asa-foscolo.github.io/intro-to-web-programming-flora-aisha/)
 
 [EDIT ONLINE](https://github.dev/4ASA-FOSCOLO/intro-to-web-programming-flora-aisha)
+
+# TO DO
+- div e section
+- href per link esterni e pagine esterne contestualizzate
+- hero section
